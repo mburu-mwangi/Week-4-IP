@@ -1,6 +1,6 @@
 # Week-4-IP
 # Autolib Data Analysis
-This project was done using Jupiter notebook
+This project was done using Google Colab notebook
 # by Alfonce Mwangi
 
 # Description
